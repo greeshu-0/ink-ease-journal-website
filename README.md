@@ -43,6 +43,7 @@ Ink & Ease is a soothing, mindful journaling web app built to help users express
 
 ## 📂 Project Structure
 
+```txt
 ink-and-ease/
 ├── frontend/ # React + Tailwind UI
 │ ├── src/
@@ -57,7 +58,7 @@ ink-and-ease/
 │ ├── routes/
 │ ├── server.js
 │ └── ...
-
+```
 
 ---
 
@@ -97,11 +98,15 @@ DB_PORT=5432
 
 ---
 
-## 👩‍💻 Made by
-
-[Greeshma Jagarapu](https://github.com/greeshu-0)
 ## 📄 SQL Schema
-
 The PostgreSQL database schema used for this project is defined in:
 
 📁 `backend/schema.sql`
+
+---
+
+
+## 👩‍💻 Made by
+
+[Greeshma Jagarapu](https://github.com/greeshu-0)
+
