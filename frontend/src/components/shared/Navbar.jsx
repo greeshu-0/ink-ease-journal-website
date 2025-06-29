@@ -5,7 +5,7 @@ function Navbar() {
 
   return (
     <nav className="ml-auto mr-10">
-      <ul className="flex gap-6 text-gray-600 font-medium text-lg items-center">
+      <ul className="flex gap-6 text-gray-400 font-medium text-lg items-center">
         <NavLinks />
         <li>
           <ProfileDropdown
